@@ -14,5 +14,4 @@ docker run --rm -it \
 
 ## Credits
 
-You can find wayback machine source code [here](https://github.com/hartator/wayback-machine-downloader). Please consider to donate to them, or to [archive.org](http://archive.org)
-
+You can find wayback machine source code [here](https://github.com/hartator/wayback-machine-downloader). Please consider to donate to them, or to [archive.org](http://archive.org).
