@@ -1,6 +1,6 @@
 # Docker Wayback Machine container
 
-This image is a docker container for [wayback machine](https://github.com/hartator/wayback-machine-downloader), a tool that permits you to download an entire website from [archive.org](http://archive.org) !
+This image is a docker container for [wayback machine](https://github.com/hartator/wayback-machine-downloader), a tool that permits you to download an entire website from [archive.org](http://archive.org) ! This image uses Wayback Machine via `gem`, if you want the official imagem, please visit the official repository.
 
 ## Usage
 
